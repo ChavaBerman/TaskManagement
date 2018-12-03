@@ -2,7 +2,7 @@
 developed by Tamar Frishman and Chava Berman
 
 # DB schema
-
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/DB.png)
 
 # Test api with postman
 ### Workers Controller
