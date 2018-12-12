@@ -37,4 +37,28 @@ developed by Tamar Frishman and Chava Berman
 ### LoginByPassword
 ![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA10.PNG)
 
+### LoginByPassword
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA12.PNG)
+
+### LoginByPassword
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA13.PNG)
+
+### LoginByPassword
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA14.PNG)
+
+### LoginByPassword
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA15.PNG)
+
+### LoginByPassword
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA16.PNG)
+
+### LoginByPassword
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA17.PNG)
+
+### LoginByPassword
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA18.PNG)
+
+### LoginByPassword
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA19.PNG)
+
 
