@@ -42,28 +42,28 @@ developed by Tamar Frishman and Chava Berman
 ### LoginByPassword
 ![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA11.PNG)
 
-### LoginByPassword
+### LoginByComputerWorker(error response)
 ![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA12.PNG)
 
-### LoginByPassword
+### LoginByComputerWorker
 ![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA13.PNG)
 
-### LoginByPassword
+### ForgotPassword(emailAdress,userName)
 ![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA14.PNG)
 
-### LoginByPassword
+### ForgotPassword(error response)
 ![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA15.PNG)
 
-### LoginByPassword
+### UpdateWorker(idWorker)
 ![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA16.PNG)
 
-### LoginByPassword
+### RemoveWorker(idWorker)
 ![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA17.PNG)
 
-### LoginByPassword
+### SetNewPassword
 ![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA18.PNG)
 
-### LoginByPassword
+### SetNewPassword(error response)
 ![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA19.PNG)
 
 
