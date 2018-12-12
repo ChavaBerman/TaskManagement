@@ -23,3 +23,21 @@ developed by Tamar Frishman and Chava Berman
 
 ### GetAllowedWorkers(teamHeadId)
 ![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA5.PNG)
+
+### GetAllowedWorkers(teamHeadId)
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA6.PNG)
+
+### GetAllowedWorkers(teamHeadId)
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA7.PNG)
+
+### GetAllowedWorkers(teamHeadId)
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA8.PNG)
+
+### GetAllowedWorkers(teamHeadId)
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA9.PNG)
+
+### GetAllowedWorkers(teamHeadId)
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA10.PNG)
+
+### GetAllowedWorkers(teamHeadId)
+![picture](https://github.com/ChavaBerman/TaskManagement/blob/master/workersController/%D7%A9%D7%A7%D7%95%D7%A4%D7%99%D7%AA11.PNG)
